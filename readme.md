@@ -43,7 +43,7 @@
 
 ### Demo of App
 
-- **URL:** designed-secured-app-yogdeep-acdjfwgdcwe4buaf.canadacentral-01.azurewebsites.net
+- **URL:** demo-secured-app.canadacentral-01.azurewebsites.net
 
 - **Authentication:**
 ![alt text](images/image.png)
